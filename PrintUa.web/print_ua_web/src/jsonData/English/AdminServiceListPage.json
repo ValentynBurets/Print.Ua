@@ -1,0 +1,15 @@
+{
+  "Name": "Name",
+  "Material": "Material",
+  "Format": "Format",
+  "Cost": "Cost",
+  "Add": "Add",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "AreYouShure": "Are you shure?",
+  "Warning": "Are you sure you want to delete this service?",
+  "ServiceList": "Service List",
+  "Status": "Status",
+  "Active": "Active",
+  "Disable": "Disable"
+}

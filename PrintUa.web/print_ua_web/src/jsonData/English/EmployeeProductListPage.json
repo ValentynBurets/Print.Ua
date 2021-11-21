@@ -1,0 +1,19 @@
+{
+  "CancelOrder": "Cancel",
+  "AddTTN": "Add TTN",
+  "Download": "Download",
+  "OrderNumber": "Order Number",
+  "Format": "Format",
+  "Material": "Material",
+  "Amount": "Amount",
+  "CreationDate": "Creation Date",
+  "State": "State",
+  "TTN": "TTN",
+  "Client": "Client",
+  "Order": "Order",
+  "OrderList": "Order List",
+  "TotalPrice": "Total Price",
+  "Discard": "Discard",
+  "Currency": "UAH",
+  "Cost": "Cost"
+}

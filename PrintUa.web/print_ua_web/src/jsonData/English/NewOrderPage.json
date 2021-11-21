@@ -1,0 +1,18 @@
+{
+    "Loading": "Data is Loading",
+    "NewOrder": "New Order",
+    "Cansel": "Cancel",
+    "Services": "Services",
+    "Amount" : "Amount: ",
+    "Create" : "Save changes and create order",
+    "SelectServiceAmount" : "Select sevice and amount",
+    "Select": "Select",
+    "CancelText": "Cancel",
+    "AddProduct": "Add product to list",
+    "ProductList": "Product List",
+    "TotalPrice": "Price is ",
+    "OptionalComment": "Comment to order",
+    "PleaseAddProduct": "",
+    "AddComment": "AddComment",
+    "CommentAdded": "Comment Added"
+}

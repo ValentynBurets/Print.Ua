@@ -1,0 +1,26 @@
+.ListOfElem {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 30px 5px rgba(0, 0, 0, 0.123);
+}
+
+.DiscardButton {
+  background-color: #ff8383;
+  border-color: #ff8383;
+}
+
+.DiscardButton:hover {
+  background-color: #ee7979;
+  border-color: #ee7979;
+}
+
+.EditButton {
+  background-color: #009acd;
+  border-color: #009acd;
+}
+
+.EditButton:hover {
+  background-color: #0090c0;
+  border-color: #0090c0;
+}

@@ -1,0 +1,66 @@
+{
+    "Header": "Print.ua",
+    "HeadBox": {
+        "Title": "Always on time",
+        "Text": "Find you best offer for you with our service"
+    },
+    "OfferBox": {
+        "OfferText": "Are you interested in creating new order?",
+        "ButtonText": "View offers"
+    },
+    "AuthorizeBox": {
+        "Title": "Please log in or register",
+        "LoginTab": {
+            "Title": "Log in",
+            "ButtonText": "Log in",
+            "Labels": {
+                "Email": "Email address",
+                "Password": "Password",
+                "ShowPasswordButton": "Show password"
+            },
+            "Placeholders": {
+                "Email": "Enter email",
+                "Password": "Enter password"
+            },
+            "InvalidText": {
+                "Email": "Invalid email format",
+                "Password": "Invalid password format"
+            },
+            "ErrorText": {
+                "IncorrectData": "Invalid email or password"
+            }
+        },
+        "RegisterTab": {
+            "Title": "Register",
+            "ButtonText": "Register",
+            "SubmitButtonText": "Submit",
+            "Labels": {
+                "Name": "Name",
+                "Surname": "Surname",
+                "Phone": "Phone number",
+                "Email": "Email address",
+                "Password": "Password",
+                "NewPassword": "New password",
+                "CurrentPassword": "Current password",
+                "ShowPasswordButton": "Show password"
+            },
+            "Placeholders": {
+                "Name": "Enter name",
+                "Surname": "Enter surname",
+                "Phone": "+380 (xx) xxx-xx-xx",
+                "Email": "email@gmail.com",
+                "Password": "Enter password"
+            },
+            "InvalidText": {
+                "Name": "Name must consist of 2-20 letters of the Cyrillic or Latin alphabet.",
+                "Surname": "Surname must consist of 2-20 letters of the Cyrillic or Latin alphabet.",
+                "Phone": "Invalid phone number format",
+                "Email": "Invalid email format",
+                "Password": "Invalid password format"
+            },
+            "ErrorText": {
+                "IncorrectData": "Server: incorrect data"
+            }
+        }
+    }
+}

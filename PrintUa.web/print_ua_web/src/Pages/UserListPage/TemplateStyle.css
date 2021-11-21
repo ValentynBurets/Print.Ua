@@ -1,0 +1,91 @@
+.style1 {
+  /* background-color: red; */
+}
+.style2 {
+  background-color: white;
+}
+.number {
+  display: table;
+  margin: 1em auto 1em auto;
+  padding: 5px;
+  background-color: gray;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.style3 {
+  /* background-color: yellow; */
+  display: flex;
+  flex-direction: column;
+}
+.templateStyle {
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: #fffdfd;
+  margin: 1em;
+}
+
+.headerText {
+  /* display: table; */
+  margin: 0.5em auto 0.5em auto;
+  padding: 5px;
+  background-color: #9d9d9d;
+  /* border: 1px solid ; */
+  border-radius: 20px;
+  width: 100%;
+}
+
+.dataText {
+  /* display: table; */
+  margin: 0.5em auto 0.5em auto;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100%;
+  background-color: white;
+}
+.buttonStyle {
+  /* display: table; */
+  margin: 0.5em auto 0.5em auto;
+  padding: 5px;
+  border-radius: 30px;
+  width: 100%;
+  align-self: flex-end;
+}
+#tasksProgress {
+  margin-left: 1em;
+}
+.style {
+  /* margin: 0 auto; */
+  align-content: center;
+}
+.ModalButtonStyle {
+  margin: 1em;
+}
+
+.fixed-row-to-bottom {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+}
+
+.TableBorderStyle {
+  border-style: solid;
+  border-width: thin;
+}
+
+.TableHeaderStyle {
+  background: aliceblue;
+  color: black;
+  font-weight: bold;
+}
+
+.TableCellStyle {
+  padding: 10px;
+  /*border: solid 1px gray;*/
+}
+
+.AddUserButton {
+  background: rgb(43, 42, 42);
+  color: white;
+  width: 300px;
+}

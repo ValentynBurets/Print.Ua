@@ -1,0 +1,13 @@
+{
+  "Save": "Save",
+  "Cancel": "Back",
+  "Success": "Success",
+  "Error": "This service exists",
+  "ServiceName": "Service name",
+  "Format": "Format",
+  "Material": "Material",
+  "Cost": "Cost",
+  "AddNewService": "Add New Service",
+  "AddEditService": "Edit Service",
+  "EnableService": "Disable"
+}

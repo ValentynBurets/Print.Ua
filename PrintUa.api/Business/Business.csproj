@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\**" />
+    <Compile Remove="OrderBusiness\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="OrderBusiness\**" />
+    <None Remove="Models\**" />
+    <None Remove="OrderBusiness\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business.Interface\Business.Interface.csproj" />
+    <ProjectReference Include="..\Data.Interface\Data.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

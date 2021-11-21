@@ -1,0 +1,24 @@
+{
+  "ServerUrl": "https://localhost:44316/api",
+  "Routes": {
+    "Login": "/Authentication/Login",
+    "Register": "/Authentication/RegisterCustomer",
+    "RegisterCustomer": "/Authentication/RegisterCustomer",
+    "RegisterEmployee": "/Authentication/RegisterEmployee",
+    "RegisterAdmin": "/Authentication/RegisterAdmin",
+    "GetService": "/ProductService/GetAll",
+    "GetMyOrders": "/Orders/my",
+    "GetOrder": "/Orders/get/",
+    "CreateOrder": "/Orders/create",
+    "Orders": "/Orders",
+    "ProductService": "/ProductService",
+    "GetProfileInfo": "/Profile/info",
+    "UpdateProfileInfo": "/Profile/info/update",
+    "GetProfilePhone": "/Profile/phone",
+    "UpdateProfilePhone": "/Profile/phone/update",
+    "GetProfileEmail": "/Profile/email",
+    "UpdateProfileEmail": "/Profile/email/update",
+    "UpdateProfilePassword": "/Profile/password/update",
+    "CancelOrder":"/Orders/cancel"
+  }
+}

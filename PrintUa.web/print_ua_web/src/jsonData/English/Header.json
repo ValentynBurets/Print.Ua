@@ -1,0 +1,13 @@
+{
+  "brand": "PrintUa",
+  "customer": {
+    "orderListPageLink": "Orders"
+  },
+  "employee": {
+    "employeeOrderPageLink": "Orders"
+  },
+  "admin": {
+    "userListPageLink": "Users",
+    "serviceListPageLink": "Services"
+  }
+}

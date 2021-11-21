@@ -1,0 +1,21 @@
+{
+    "OrderNumber" : "Order number",
+    "CreationDate" : "Creation date",
+    "ttn" : "TTN",
+    "EmployeeName" : "Printed by",
+    "TotalPrice" : "Total price",
+    "Currency":"UAH",
+    "Discard" : "Discard",
+    "Edit" : "Edit",
+    "Number" : "№",
+    "Format":"Format",
+    "Material": "Material",
+    "Amount":"Amount",
+    "Cost": "Cost",
+    "Photo" : "Photo",
+    "State":"State",
+    "ConfirmOrderCancel":"Confirm order cancellation",
+    "ConfirmOrderCancelText":"By clicking \"Continue\" you will delete your order and it won`t be done.",
+    "Cancel":"Cancel",
+    "Continue":"Continue"
+} 
